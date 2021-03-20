@@ -1,7 +1,5 @@
 package com.interview.questions;
 
-import java.util.Scanner;
-
 public class Find_Even_Odd_Numbers {
 	
 	public static void main(String[] args) {
